@@ -12,7 +12,7 @@ Here is a short list of tools & services that im using very day
 * Ansible — Configuration Management and Deployment
 * Nagios — Continuous Monitoring
 
-I work at CheckPoint as a DevOps Enginner Experience Engineer. For more information about me (and a whole lot of shenanigans), check out site.
+I work at CheckPoint as a DevOps Enginner with alot of Experience. For more information about me (and a whole lot of shenanigans), check out site.
 
 <!--
 **mfinkelstine/mfinkelstine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
