@@ -23,12 +23,13 @@
     <a href="https://dev.to/mfinkelstine" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="vumdao" height="30" width="40" /></a>
     <a href="https://twitter.com/mfinkelstine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="VuDao81124667" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/mfinkelstine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vumdao" height="30" width="40" /></a>
-    <a href="https://github.com/mfinkelstine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="vumdao" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/987634/mfinkelstine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/stackoverflow.svg" alt="vumdao" height="30" width="40" /></a>
+    <a href="https://github.com/mfinkelstine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="vumdao" height="30" width="40" /></a> 
+    <a href="https://stackoverflow.com/users/987634/mfinkelstine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/stackoverflow.svg" alt="vumdao" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h2>🚀 Tools/ Technologies/ What I use/used</h2>
+<h2>🚀 Tools/Technologies/ What I use/used</h2>
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> 
