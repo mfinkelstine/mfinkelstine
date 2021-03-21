@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Meir</h1>
-<h2 align="center"><b>AWS AND DevOps || CloudOpz</b></h2>
+<h2 align="center"><b>DevOps || CloudOpz</b></h2>
 
 ---
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [dev.to](https://dev.to/mfinkelstine)
 
-- 💬 Ask me about **AWS, Serverless, CDK, K8S, Python**
+- 💬 Ask me about **AWS, Serverless, CDK, K8S, Python, bash**
 
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/mfinkelstine/)
 
