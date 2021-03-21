@@ -1,18 +1,3 @@
-### Hi there 👋
-
-Hi. I’m Meir.
-
-Here is a short list of tools & services that im using very day
-* Git and GitHub — Source code management (Version Control System)
-* Jenkins/Gitlab — Automation server, with plugins built for developing CI/ CD pipelines
-* Selenium — Automation testing
-* Docker — Software Containerization Platform
-* Kubernetes — Container Orchestration tool
-* Puppet — Configuration Management and Deployment
-* Ansible — Configuration Management and Deployment
-* Nagios — Continuous Monitoring
-
-I work at CheckPoint as a DevOps Enginner with alot of Experience. For more information about me (and a whole lot of shenanigans), check out site.
 
 <h1 align="center">Hi 👋, I'm Meir</h1>
 <h2 align="center"><b>AweSome DevSecOps || CloudOpz</b></h2>
