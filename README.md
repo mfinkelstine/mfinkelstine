@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Meir</h1>
-<h2 align="center"><b>AweSome DevSecOps || CloudOpz</b></h2>
+<h2 align="center"><b>AWS AND DevOps || CloudOpz</b></h2>
 
 ---
 
