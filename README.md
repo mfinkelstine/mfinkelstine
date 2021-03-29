@@ -4,7 +4,7 @@
 
 ---
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/vumdao) [![GitHub followers](https://img.shields.io/github/followers/mfinkelstine?label=Follow&style=social)](https://github.com/mfinkelstine/?tab=follow) ![Profile views](https://gpvc.arturio.dev/vumdao) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-vumdao-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vu-dao-9280ab43/)](https://www.linkedin.com/in/mfinkelstine/) [![Instagram Badge](https://img.shields.io/badge/-dev.to-black?style=flat&logo=instagram&logoColor=white&link=https://dev.to/vumdao)](https://instagram.com/slon.gobo)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mfinkelstine.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/mfinkelstine?label=Follow&style=social)](https://github.com/mfinkelstine/?tab=follow) ![Profile views](https://gpvc.arturio.dev/vumdao) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-vumdao-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vu-dao-9280ab43/)](https://www.linkedin.com/in/mfinkelstine/) [![Instagram Badge](https://img.shields.io/badge/-dev.to-black?style=flat&logo=instagram&logoColor=white&link=https://dev.to/vumdao)](https://instagram.com/slon.gobo)
 
 
 <img align="right" src="https://github.com/mikonoid/mikonoid/blob/main/images/gifs/coder3.gif?raw=true" width="500" height="320" />
