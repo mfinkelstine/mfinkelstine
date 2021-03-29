@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Meir</h1>
 <h2 align="center"><b>I'm a DevOps Engineer and CloudOpz</b></h2>
+
 ---
+
 <img align="right" src="https://github.com/mikonoid/mikonoid/blob/main/images/gifs/coder3.gif?raw=true" width="500" height="320" />
 
 Welcome to my page!
