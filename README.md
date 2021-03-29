@@ -1,10 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Meir</h1>
 <h2 align="center"><b>I'm a DevOps Engineer and CloudOpz</b></h2>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-
 ---
-
 <img align="right" src="https://github.com/mikonoid/mikonoid/blob/main/images/gifs/coder3.gif?raw=true" width="500" height="320" />
 
 Welcome to my page!
