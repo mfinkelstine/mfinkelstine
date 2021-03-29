@@ -30,6 +30,7 @@ Welcome to my page!
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/stackoverflow.svg" alt="vumdao" height="30" width="40" /></a>
 </p>
 
+
 ---
 
 <h2>🚀 Tools and Technologies that I'm using</h2>
@@ -64,3 +65,5 @@ Welcome to my page!
 ---
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mfinkelstine.visitor-badge) [![GitHub followers](https://img.shields.io/github/followers/mfinkelstine?label=Follow&style=social)](https://github.com/mfinkelstine/?tab=follow) ![Profile views](https://gpvc.arturio.dev/vumdao) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-vumdao-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vu-dao-9280ab43/)](https://www.linkedin.com/in/mfinkelstine/) [![Instagram Badge](https://img.shields.io/badge/-dev.to-black?style=flat&logo=instagram&logoColor=white&link=https://dev.to/vumdao)](https://instagram.com/slon.gobo)
+---
+[![Meir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfinkelstine)](https://github.com/anuraghazra/github-readme-stats)
