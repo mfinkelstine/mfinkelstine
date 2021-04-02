@@ -8,7 +8,7 @@
 
 Welcome to my page!
 - 🔭 I'm build things that makes a difference to people
-- 💜 I'm working with cutting ege tech
+- 💜 I'm working with cutting edge tech
 - ⚡ Excited to create open-source projects
 - 💬 You can Ask me about **AWS, Serverless, CDK, K8S, Python, bash**
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/mfinkelstine/)
