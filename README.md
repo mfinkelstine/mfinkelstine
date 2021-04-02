@@ -7,7 +7,7 @@
 <img align="right" src="https://github.com/mikonoid/mikonoid/blob/main/images/gifs/coder3.gif?raw=true" width="500" height="320" />
 
 Welcome to my page!
-- 🔭 I'm build things that makes a difference to people
+- 🔭 I'm building things that make a difference to people
 - 💜 I'm working with cutting edge tech
 - ⚡ Excited to create open-source projects
 - 💬 You can Ask me about **AWS, Serverless, CDK, K8S, Python, bash**
